@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2BF4B90F-F467-4621-81EC-DF9FFE24DB9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentMVC/Startup.cs">
+    <Files>
+      <File FileName="AssignmentMVC/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="AssignmentMVC/Controllers/HomeController.cs" Line="20" Column="72" />
+      <File FileName="AssignmentMVC/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="AssignmentMVC/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="AssignmentMVC/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="AssignmentMVC/Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="AssignmentMVC/Startup.cs" Line="40" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AssignmentMVC PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

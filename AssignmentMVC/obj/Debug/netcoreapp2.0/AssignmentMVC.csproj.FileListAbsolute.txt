@@ -1,0 +1,11 @@
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/bin/Debug/netcoreapp2.0/AssignmentMVC.deps.json
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/bin/Debug/netcoreapp2.0/AssignmentMVC.runtimeconfig.json
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/bin/Debug/netcoreapp2.0/AssignmentMVC.runtimeconfig.dev.json
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/bin/Debug/netcoreapp2.0/AssignmentMVC.dll
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/bin/Debug/netcoreapp2.0/AssignmentMVC.pdb
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.csprojResolveAssemblyReference.cache
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.csproj.CoreCompileInputs.cache
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.AssemblyInfoInputs.cache
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.AssemblyInfo.cs
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.dll
+/Users/petrulutenco/Projects/AssignmentMVC/AssignmentMVC/obj/Debug/netcoreapp2.0/AssignmentMVC.pdb
